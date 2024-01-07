@@ -1,7 +1,7 @@
 # Netflix-Movies-and-TV-Shows-Clustering
 
 ![image](https://github.com/rajshekharsingh66/Netflix-Movies-and-TV-Shows-Clustering/assets/96785810/3ab73a5c-4622-450c-828d-e76a7987ce4e)
-Problem Statement
+#Problem Statement
 This dataset consists of tv shows and movies available on Netflix as of 2019. The dataset is collected from Flixable which is a third-party Netflix search engine.
 
 In 2018, they released an interesting report which shows that the number of TV shows on Netflix has nearly tripled since 2010. The streaming service’s number of movies has decreased by more than 2,000 titles since 2010, while its number of TV shows has nearly tripled. It will be interesting to explore what all other insights can be obtained from the same dataset.
@@ -18,7 +18,7 @@ Is Netflix has increasingly focusing on TV rather than movies in recent years.
 
 Clustering similar content by matching text-based features.
 
-Project Summary
+#Project Summary
 This dataset consists of tv shows and movies available on Netflix as of 2019. The dataset is collected from Flixable which is a third-party Netflix search engine.
 
 In 2018, they released an interesting report which shows that the number of TV shows on Netflix has nearly tripled since 2010. The streaming service’s number of movies has decreased by more than 2,000 titles since 2010, while its number of TV shows has nearly tripled. It will be interesting to explore what all other insights can be obtained from the same dataset.
@@ -31,7 +31,7 @@ Then i have prepare the dataset for creating clusters by various parameters wher
 
 Later i have used the silhouette method and k-means elbow method to find optimal number of clusters and built recommender system by cosine similarity and recommended top ten movies.
 
-Conclusion
+#Conclusion
 The objective of the project was to cluster TV shows and movies based on their similarities and differences, with the ultimate goal of creating a content-based recommender system that recommends 10 shows to users based on their viewing history. Some key points from the project include:
 
 Exploring the dataset consist of 7787 records and 12 attributes, with a focus on missing value imputation and exploratory data analysis (EDA).
