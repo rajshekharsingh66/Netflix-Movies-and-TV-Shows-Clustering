@@ -31,7 +31,7 @@ Explore the data and understand the behaviour of the same.
 
 Then i have prepare the dataset for creating clusters by various parameters wherein i can remove stop words, white spaces, numbers etc. so that i can get important words and based on that i shall form clusters.
 
-Later i have used the silhouette method and k-means elbow method to find optimal number of clusters and built recommender system by cosine similarity and recommended top ten movies.
+Later i have used the silhouette method and k-means elbow method to find optimal number of clusters.
 
 # Conclusion
 
@@ -49,4 +49,4 @@ In Agglomerative clustering the optimal number of clusters was also 6, which we 
 
 Continued all the efforts by creating a content-based recommender system using the similarity matrix obtained through cosine similarity.
 
-The recommender system offers personalized recommendations based on the type of shows the user has watched and provides the user with ten top-notch suggestions to explore.
+
